@@ -82,7 +82,7 @@ Add trailing commas to multiline definitions.
 var thing = {
   not_changing: ['c', 'a', 't'],
   might_change: [
-    'bitcoin'
+    'bitcoin',
   ]
   a: 'z',
   b: 'y',

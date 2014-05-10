@@ -1,4 +1,4 @@
-# npmjs-name [Build] [Version]
+# npmjs-name [![Build Status](https://travis-ci.org/expressjs/style-guide.svg?branch=master)](https://travis-ci.org/expressjs/style-guide) [![NPM Version](https://badge.fury.io/js/style-guide.svg)](https://badge.fury.io/js/style-guide)
 
 This document is a general guideline for expressjs repo readme's.
 

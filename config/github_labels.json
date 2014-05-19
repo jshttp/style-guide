@@ -1,0 +1,46 @@
+[
+  {
+    "name": "bug",
+    "color": "fc2929"
+  },
+  {
+    "name": "duplicate",
+    "color": "cccccc"
+  },
+  {
+    "name": "enhancement",
+    "color": "84b6eb"
+  },
+  {
+    "name": "help wanted",
+    "color": "159818"
+  },
+  {
+    "name": "invalid",
+    "color": "e6e6e6"
+  },
+  {
+    "name": "question",
+    "color": "cc317c"
+  },
+  {
+    "name": "wontfix",
+    "color": "ffffff"
+  },
+  {
+    "name": "docs",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "investigate",
+    "color": "bfdadc"
+  },
+  {
+    "name": "pr",
+    "color": "006b75"
+  },
+  {
+    "name": "tests",
+    "color": "944008"
+  }
+]

@@ -9,6 +9,23 @@ The guides are intended to be as simple and concise as possible.
 
 [Documentation Guide](documentation.md)
 
+### Issue Label Use
+
+Name           | Description
+---------------|-------------------------------------------
+`bug`          | Denotes confirmed bugs.
+`duplicate`    | A duplicate issue.
+`enhancement`  | An issue requesting an enhancement.
+`help wanted`  | Extra help may be needed to resolve this issue.
+`invalid`      | This is not a proper issue report, request, or question.
+`question`     | For issues where the issuer is asking something.
+`docs`         | This issue pertains to the documentation or code comments.
+`investigate`  | Requires further investigation.
+`pr`           | This is pull request. (Makes it easier to see them.)
+`tests`        | This issue pertains to the tests themselves.
+
+For management of issue labels, please see [the config](config/readme.md).
+
 ### Public Domain
 
 [License](LICENSE)

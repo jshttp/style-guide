@@ -42,5 +42,9 @@
   {
     "name": "tests",
     "color": "944008"
+  },
+  {
+    "name": "deprecate",
+    "color": "f7c6c7"
   }
 ]

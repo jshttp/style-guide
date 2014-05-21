@@ -23,6 +23,7 @@ Name           | Description
 `investigate`  | Requires further investigation.
 `pr`           | This is pull request. (Makes it easier to see them.)
 `tests`        | This issue pertains to the tests themselves.
+`deprecate`    | Issue is about a feature that is pending future removal.
 
 For management of issue labels, please see [the config](config/readme.md).
 

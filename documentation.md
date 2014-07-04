@@ -10,11 +10,11 @@ This document is a general guideline for expressjs repo readme's.
 Documentation of basic and important functionality should always be included in the readme.
 
     make sure to highlight all code with ```syntax
-    e.g. ```js or ```sh
+    e.g. ```js or ```bash
 
 ### Install
 
-```sh
+```bash
 $ npm install <module>
 ```
 

@@ -70,6 +70,4 @@ existing_object.object.property // => example value from description
 
 Full examples go here.
 
-## License (type)
-
-License or link to LICENSE file.
+### [License (type)](LICENSE)

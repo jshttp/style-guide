@@ -5,9 +5,9 @@ This is a guideline to how new repos and commits should be styled
 
 The guides are intended to be as simple and concise as possible.
 
-[Javascript Guide](javascript.md)
+__[Javascript Guide](javascript.md)__
 
-[Documentation Guide](documentation.md)
+__[Documentation Guide](documentation.md)__
 
 ### Issue Label Use
 
@@ -27,6 +27,4 @@ Name           | Description
 
 For management of issue labels, please see [the config](config/readme.md).
 
-### Public Domain
-
-[License](LICENSE)
+### [Public Domain](LICENSE)

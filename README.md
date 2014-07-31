@@ -9,7 +9,13 @@ __[Javascript Guide](javascript.md)__
 
 __[Documentation Guide](documentation.md)__
 
-### Issue Label Use
+## Contributing
+
+If you are interested in contributing, please use your own initiative!
+
+Creating PR's and discussing unsolved issues are very good ways to help out and become involved! :)
+
+## Issue Label Use
 
 Name           | Description
 ---------------|-------------------------------------------
@@ -27,4 +33,4 @@ Name           | Description
 
 For management of issue labels, please see [the config](config/readme.md).
 
-### [Public Domain](LICENSE)
+### This repo is [Public Domain](LICENSE)

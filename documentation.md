@@ -1,34 +1,41 @@
-# npmjs-name
+# npm-name
 
 [![NPM Version](https://badge.fury.io/js/style-guide.svg)](https://badge.fury.io/js/style-guide)
 [![Build Status](https://travis-ci.org/expressjs/style-guide.svg?branch=master)](https://travis-ci.org/expressjs/style-guide)
 [![Coverage Status](https://img.shields.io/coveralls/expressjs/style-guide.svg?branch=master)](https://coveralls.io/r/expressjs/style-guide)
 
+This document provides a general guideline for creating a README in an [expressjs](https://github.com/expressjs) repository.
 
-This document is a general guideline for expressjs repo readme's.
+When writing content for a README, keep these two guidelines in mind:
 
-Documentation of basic and important functionality should always be included in the readme.
+- always describe basic functionality above `Installation`.
 
-    make sure to highlight all code with ```syntax
-    e.g. ```js or ```bash
+- always specifiy a language when using code blocks.
 
-### Install
+```
+    // examples of a language include javascript and bash
+    ```[language]
+      [code]
+    ```
+```
+
+## Installation
 
 ```bash
-$ npm install <module>
+$ npm install <npm-name>
 ```
 
 ## API
 
 ```js
 var express = require('express')
-var example = require('example')
+var module  = require('npm-name')
 
 var app = express()
-app.use(example())
+app.use(module())
 ```
 
-### Main(options)
+### module(options)
 
 #### Options
 
@@ -40,19 +47,19 @@ app.use(example())
 
 #### Sub Options
 
-#### method(args)
+#### module.method(args)
 
-Describes what this function does. As concisely as possible.
+As concisely as possible, describe the purpose of this function.
 
 ```js
-Main.example(args)
+module.method(args)
 ```
 
 ### existing_object.object
 
 #### Object.method(args)
 
-Description
+Add a description for this method.
 
 ```js
 existing_object.object.example(args)
@@ -60,7 +67,7 @@ existing_object.object.example(args)
 
 #### Object.property
 
-Description
+Add a description for this property.
 
 ```js
 existing_object.object.property // => example value from description

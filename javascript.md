@@ -1,7 +1,8 @@
 ### Rules
 
-* No trailing whitespace
 * Two space indention
+* No trailing whitespace
+* End-of-file newlines in all text files
 
 ### Guidelines
 

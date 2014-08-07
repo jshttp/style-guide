@@ -50,5 +50,21 @@
   {
     "name": "release",
     "color": "000000"
+  },
+  {
+    "name": "ideas",
+    "color": "d7e102"
+  },
+  {
+    "name": "discuss",
+    "color": "02d7e1"
+  },
+  {
+    "name": "needs tests",
+    "color": "e11d21"
+  },
+  {
+    "name": "future",
+    "color": "e102d8"
   }
 ]

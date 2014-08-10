@@ -1,8 +1,9 @@
 # npm-name
 
-[![NPM Version](https://badge.fury.io/js/style-guide.svg)](https://badge.fury.io/js/style-guide)
-[![Build Status](https://travis-ci.org/expressjs/style-guide.svg?branch=master)](https://travis-ci.org/expressjs/style-guide)
-[![Coverage Status](https://img.shields.io/coveralls/expressjs/style-guide.svg?branch=master)](https://coveralls.io/r/expressjs/style-guide)
+[![NPM Version](https://img.shields.io/npm/v/style-guide.svg?style=flat)](https://www.npmjs.org/package/style-guide)
+[![Node.js Version](https://img.shields.io/badge/node.js->=_0.8-blue.svg?style=flat)](http://nodejs.org/download/)
+[![Build Status](http://img.shields.io/travis/expressjs/vary.svg?style=flat)](https://travis-ci.org/expressjs/style-guide)
+[![Coverage Status](https://img.shields.io/coveralls/expressjs/style-guide.svg?style=flat)](https://coveralls.io/r/expressjs/style-guide)
 
 This document provides a general guideline for creating a README in an [expressjs](https://github.com/expressjs) repository.
 
@@ -10,7 +11,7 @@ When writing content for a README, keep these two guidelines in mind:
 
 - always describe basic functionality above `Installation`.
 
-- always specifiy a language when using code blocks.
+- always specify a language when using code blocks.
 
 ```
     // examples of a language include javascript and bash

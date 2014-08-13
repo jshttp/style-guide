@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/style-guide.svg?style=flat)](https://www.npmjs.org/package/style-guide)
 [![Node.js Version](https://img.shields.io/badge/node.js->=_0.8-blue.svg?style=flat)](http://nodejs.org/download/)
-[![Build Status](http://img.shields.io/travis/expressjs/vary.svg?style=flat)](https://travis-ci.org/expressjs/style-guide)
+[![Build Status](http://img.shields.io/travis/expressjs/style-guide.svg?style=flat)](https://travis-ci.org/expressjs/style-guide)
 [![Coverage Status](https://img.shields.io/coveralls/expressjs/style-guide.svg?style=flat)](https://coveralls.io/r/expressjs/style-guide)
 
 This document provides a general guideline for creating a README in an [expressjs](https://github.com/expressjs) repository.
@@ -74,8 +74,8 @@ Add a description for this property.
 existing_object.object.property // => example value from description
 ```
 
-## Examples
+## Example(s)
 
 Full examples go here.
 
-### [License (type)](LICENSE)
+### [MIT Licensed](LICENSE)

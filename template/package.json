@@ -5,6 +5,8 @@
   "author": "author name <email> (optional website)",
   "license": "MIT",
   "repository": "github_username/repo",
+  "keywords": [
+  ],
   "dependencies": {
   },
   "devDependencies": {

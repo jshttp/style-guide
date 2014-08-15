@@ -47,6 +47,7 @@ Exceptions:
 #### Spaces around function definition
 
 ```js
+function (a, b) {}
 function fn(a, b) {}
 ```
 
@@ -58,10 +59,10 @@ switch () {}
 
 for (a; b >= c; c + d / e) {}
 
-// ++ -- ~ are exceptions
+// ++ -- ~ ! are exceptions
 a++
 --b
-~array.indexOf('c')
+!!~array.indexOf('c')
 ```
 
 #### Spaces only after commas or semicolons in arguments

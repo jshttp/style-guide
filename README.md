@@ -5,9 +5,9 @@ This is a guideline to how new repos and commits should be styled
 
 The guides are intended to be as simple and concise as possible.
 
-__[Javascript Guide](javascript.md)__
+### [Javascript Guide](javascript.md)
 
-__[Documentation Guide](documentation.md)__
+### [Module Template](template)
 
 ## Contributing
 

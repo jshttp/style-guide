@@ -5,6 +5,12 @@
 [![Build Status](http://img.shields.io/travis/expressjs/style-guide.svg?style=flat)](https://travis-ci.org/expressjs/style-guide)
 [![Coverage Status](https://img.shields.io/coveralls/expressjs/style-guide.svg?style=flat)](https://coveralls.io/r/expressjs/style-guide)
 
+
+> #### You can directly copy this folder to create a new module!
+
+> NOTE: The "files" in package.json is a whitelist you may have to add to.
+
+
 This document provides a general guideline for creating a README in an [expressjs](https://github.com/expressjs) repository.
 
 When writing content for a README, keep these two guidelines in mind:
@@ -29,18 +35,14 @@ $ npm install <npm-name>
 ## API
 
 ```js
-var express = require('express')
-var module  = require('npm-name')
-
-var app = express()
-app.use(module())
+var module = require('npm-name')
 ```
 
 ### module(options)
 
 #### Options
 
-- `option1`    - asdf. (default `true`)
+- `option1`    - asdf. (default: `true`)
 - `option2`    - cats.
 - `option10`   - always 42.
 - `option9000` - epic.
@@ -76,6 +78,8 @@ existing_object.object.property // => example value from description
 
 ## Example(s)
 
-Full examples go here.
+```js
+// Full examples go here.
+```
 
 ### [MIT Licensed](LICENSE)

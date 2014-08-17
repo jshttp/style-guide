@@ -66,5 +66,9 @@
   {
     "name": "future",
     "color": "e102d8"
+  },
+  {
+    "name": "deps",
+    "color": "444444"
   }
 ]

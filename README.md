@@ -34,6 +34,7 @@ Name           | Description
 `discuss`      | This issue should remain open to discussion for a while.
 `needs tests`  | This pull request needs tests to be added.
 `future`       | An issue which should be resolved in a future release.
+`deps`         | Marks a dependancy-related issue or pull request.
 
 For management of issue labels, please see [the config](config/readme.md).
 

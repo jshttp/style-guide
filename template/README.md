@@ -1,7 +1,8 @@
 # npm-name
 
 [![NPM Version](https://img.shields.io/npm/v/style-guide.svg?style=flat)](https://www.npmjs.org/package/style-guide)
-[![Node.js Version](https://img.shields.io/badge/node.js->=_0.8-blue.svg?style=flat)](http://nodejs.org/download/)
+[![NPM Downloads](https://img.shields.io/npm/dm/style-guide.svg?style=flat)](https://www.npmjs.org/package/style-guide)
+[![Node.js Version](https://img.shields.io/badge/node.js->=_0.8-brightgreen.svg?style=flat)](http://nodejs.org/download/)
 [![Build Status](http://img.shields.io/travis/expressjs/style-guide.svg?style=flat)](https://travis-ci.org/expressjs/style-guide)
 [![Coverage Status](https://img.shields.io/coveralls/expressjs/style-guide.svg?style=flat)](https://coveralls.io/r/expressjs/style-guide)
 
@@ -35,10 +36,16 @@ $ npm install <npm-name>
 ## API
 
 ```js
-var module = require('npm-name')
+var Module = require('npm-name')
 ```
 
-### module(options)
+## Module(options)
+
+```js
+var module = Module({
+  // sample options
+}))
+```
 
 #### Options
 
@@ -82,4 +89,4 @@ existing_object.object.property // => example value from description
 // Full examples go here.
 ```
 
-### [MIT Licensed](LICENSE)
+## [MIT Licensed](LICENSE)

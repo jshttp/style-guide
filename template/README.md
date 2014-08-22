@@ -1,18 +1,15 @@
 # npm-name
 
-[![NPM Version](https://img.shields.io/npm/v/style-guide.svg?style=flat)](https://www.npmjs.org/package/style-guide)
-[![NPM Downloads](https://img.shields.io/npm/dm/style-guide.svg?style=flat)](https://www.npmjs.org/package/style-guide)
+[![NPM Version](https://img.shields.io/npm/v/MODULE.svg?style=flat)](https://www.npmjs.org/package/MODULE)
+[![NPM Downloads](https://img.shields.io/npm/dm/MODULE.svg?style=flat)](https://www.npmjs.org/package/MODULE)
 [![Node.js Version](https://img.shields.io/badge/node.js->=_0.8-brightgreen.svg?style=flat)](http://nodejs.org/download/)
-[![Build Status](http://img.shields.io/travis/expressjs/style-guide.svg?style=flat)](https://travis-ci.org/expressjs/style-guide)
-[![Coverage Status](https://img.shields.io/coveralls/expressjs/style-guide.svg?style=flat)](https://coveralls.io/r/expressjs/style-guide)
+[![Build Status](http://img.shields.io/travis/jshttp/REPO.svg?style=flat)](https://travis-ci.org/jshttp/REPO)
+[![Coverage Status](https://img.shields.io/coveralls/jshttp/REPO.svg?style=flat)](https://coveralls.io/r/jshttp/REPO)
 
 
-> #### You can directly copy this folder to create a new module!
+> #### This folder is a copyable template for creating new modules!
 
 > NOTE: The "files" in package.json is a whitelist you may have to add to.
-
-
-This document provides a general guideline for creating a README in an [expressjs](https://github.com/expressjs) repository.
 
 When writing content for a README, keep these two guidelines in mind:
 

@@ -1,4 +1,4 @@
-## Expressjs's General Style *Guide*
+# jshttp style *guide*
 
 This is a guideline to how new repos and commits should be styled
  and how we prefer pull requests.

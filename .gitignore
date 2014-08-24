@@ -1,17 +1,22 @@
-# OS generated files
-#####
+# OS X
 .DS_Store*
-ehthumbs.db
 Icon?
+._*
+
+# Windows
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
 
 
 # npm
-#####
 node_modules
 *.log
 
 
-# Editors
-#####
-*.sublime*
+# Coveralls
+coverage

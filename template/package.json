@@ -15,7 +15,7 @@
     "node": ">= 0.8.0"
   },
   "files": [
-    "LICENSE"
+    "LICENSE",
     "index.js"
   ],
   "scripts": {

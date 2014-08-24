@@ -25,6 +25,7 @@ Name           | Description
 `help wanted`  | Extra help may be needed to resolve this issue.
 `invalid`      | This is not a proper issue report, request, or question.
 `question`     | For issues where the issuer is asking something.
+`wontfix`      | Marks an issue that will not be fixed.
 `docs`         | This issue pertains to the documentation or code comments.
 `investigate`  | Requires further investigation.
 `pr`           | This is pull request. (Makes it easier to see them.)

@@ -41,7 +41,7 @@ function fn() {}
 
 Exceptions:
 
-- Exporting - `export.fn = function () {}`
+- Exporting - `exports.fn = function () {}`
 - Conditionals - `var fn = a ? function () {} : function () {}`
 
 #### Spaces around function definition

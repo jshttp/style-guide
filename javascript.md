@@ -39,10 +39,7 @@ var two = 2
 function fn() {}
 ```
 
-Exceptions:
-
-- Exporting - `export.fn = function () {}`
-- Conditionals - `var fn = a ? function () {} : function () {}`
+Exception: Conditionals - `var fn = a ? function () {} : function () {}`
 
 #### Spaces around function definition
 

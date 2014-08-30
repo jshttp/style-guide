@@ -2,7 +2,9 @@
   "name": "npm-name",
   "description": "describe this module",
   "version": "0.0.0",
-  "author": "author name <email> (optional website)",
+  "contributors": [
+    "contributor name <email> (optional website)",
+  ],
   "license": "MIT",
   "repository": "github_username/repo",
   "keywords": [

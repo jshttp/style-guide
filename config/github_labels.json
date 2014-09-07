@@ -70,5 +70,9 @@
   {
     "name": "deps",
     "color": "444444"
+  },
+  {
+    "name": "low priority",
+    "color": "cfd8dc"
   }
 ]

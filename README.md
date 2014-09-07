@@ -36,6 +36,7 @@ Name           | Description
 `needs tests`  | This pull request needs tests to be added.
 `future`       | An issue which should be resolved in a future release.
 `deps`         | Marks a dependancy-related issue or pull request.
+`low priority` | Denotes a low-priority issue.
 
 For management of issue labels, please see [the config](config/readme.md).
 

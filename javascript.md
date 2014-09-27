@@ -82,7 +82,7 @@ var thing = {
   not_changing: ['c', 'a', 't'],
   might_change: [
     'bitcoin',
-  ]
+  ],
   a: 'z',
   b: 'y',
 }

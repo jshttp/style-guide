@@ -1,15 +1,12 @@
-# jshttp style *guide*
+# jshttp style _guide_
 
-This is a guideline to how new repos and commits should be styled
- and how we prefer pull requests.
+These guidelines are how we style javascript modules in `jshttp`, as well as how we prefer to work with git.
 
-The guides are intended to be as simple and concise as possible.
+The guides are intended to be as simple and concise as possible, for easy reading.
 
-### [Javascript Guide](javascript.md)
-
-### [Git + Guide](git.md)
-
-### [Module Template](template)
+* __[Javascript Guide](javascript.md)__
+* __[Git + Guide](git.md)__
+* __[Module Template](template)__
 
 ## Contributing
 

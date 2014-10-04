@@ -7,6 +7,8 @@ The guides are intended to be as simple and concise as possible.
 
 ### [Javascript Guide](javascript.md)
 
+### [Git + Guide](git.md)
+
 ### [Module Template](template)
 
 ## Contributing

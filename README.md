@@ -30,6 +30,7 @@ Name           | Description
 `pr`           | This is pull request. (Makes it easier to see them.)
 `tests`        | This issue pertains to the tests themselves.
 `deprecate`    | Issue is about a feature that is pending future removal.
+`release`      | A tracking issue for a specific release milestone.
 `ideas`        | Marks an issue which is primarily an idea.
 `discuss`      | This issue should remain open to discussion for a while.
 `needs tests`  | This pull request needs tests to be added.
@@ -37,6 +38,6 @@ Name           | Description
 `deps`         | Marks a dependancy-related issue or pull request.
 `low priority` | Denotes a low-priority issue.
 
-For management of issue labels, please see [the config](config/readme.md).
+For management of issue labels, please see [the config](config).
 
 ### This repo is [Public Domain](LICENSE)

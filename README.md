@@ -5,7 +5,7 @@ These guidelines are how we style javascript modules in `jshttp`, as well as how
 The guides are intended to be as simple and concise as possible, for easy reading.
 
 * __[Javascript Guide](javascript.md)__
-* __[Git + Guide](git.md)__
+* __[Git & GitHub Guide](git.md)__
 * __[Module Template](template)__
 
 ## Contributing

@@ -1,3 +1,7 @@
+## Git Guidelines
+
+If you have moved your repo into one of our orgs (`jshttp` / `pillarjs` / `expressjs` / etc), you don't _have_ to follow this, but it would be nice if you did. :)
+
 ### Commit Messages
 
 Good commit messages should have a concise message in present tense and lowercase, preferably with a prepended subsystem for easy clarity of history.

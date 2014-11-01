@@ -15,7 +15,7 @@ Closes #10
 
 ### Pull Requests
 
-Maintainers should try to avoid using the GitHub `Merge pull request` button when possible. Doing so causes un-necesary nonlinearities, making the git history difficult to ready by putting commits in order of their commit date, rather than merge date.
+Maintainers should try to avoid using the GitHub `Merge pull request` button when possible. Doing so causes un-necesary nonlinearities, making the git history difficult to understand by putting commits in order of their commit date, rather than merge date.
 
 A more reasonable and readable way of doing things is to grab Pull Requests by piping a patch grabbed by `curl` into `git am`, and amending if necessary, before commiting.
 

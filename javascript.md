@@ -50,16 +50,29 @@ function fn(a, b) {}
 
 #### Spaces around operators
 
+Always put spaces after keywords (`if`, `while`, `switch`, etc.).
+
+Use spaces for grouping: put spaces around low-priority operators. 
+
 ```js
 if () {} else {}
 switch () {}
 
-for (a; b >= c; c + d / e) {}
+for (a; b >= c; c + d/e) {}
 
-// ++ -- ~ ! are exceptions
+// unary operators will usually have no space
+// after them because of their priority
 a++
 --b
 !!~array.indexOf('c')
+
+// plus has lower priority than multiplication,
+// so we're adding spaces to it to show that:
+2 + 2*2
+
+// plus has higher priority than ternary operator,
+// so we group its arguments together
+1+2 ? 3 : 4
 ```
 
 #### Spaces only after commas or semicolons in arguments

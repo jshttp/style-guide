@@ -38,5 +38,3 @@ tl;dr: Be respectful. Abusive behavior is never tolerated.
 ## Notes
 
 ("we" refers to the maintainers and community of express / expressjs / jshttp / pillarjs)
-
-All Code is MIT Licensed unless otherwise noted. This work is dedicated to the Public Domain.

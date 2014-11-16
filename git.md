@@ -7,14 +7,16 @@ If you have moved your repo into one of our orgs (`jshttp` / `pillarjs` / `expre
 Good commit messages should have a concise message in present tense and lowercase, preferably with a prepended subsystem for easy clarity of history.
 Due to the use of GitHub, they should also be no longer than 50 characters, so that it does not wrap into the description.
 
-If the commit fixes an existing GitHub issue, the description should contain `Fixes #<issue number>` or `Closes #<issue number>`, so that the issue can be automatically closed once merged in.
+If the commit fixes an existing GitHub issue, the description should contain `Fixes {owner}/{repo}#<issue number>` or `Closes {owner}/{repo}#<issue number>`, so that the issue can be automatically closed once merged in.
 `Fixes` should be used for issues or bugs. `Closes` should be used for all other things.
+
+The repo owner and repo name should be specified so as to not conflict with prossible repo forks.
 
 ```
 guides: add git guidelines
 
-Closes #15
-Closes #10
+Closes jshttp/style-guide#15
+Closes jshttp/style-guide#10
 ```
 
 ### Pull Requests

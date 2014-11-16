@@ -25,9 +25,7 @@ We regularly patch up things such as style nits in commits so that new contribut
 
 ## Code of Conduct
 
-[This is why.](https://medium.com/node-js-javascript/codes-of-conduct-82ab2d88112d)
-
-Until we have an official Code of Conduct, we will act against harassment according to any of the following codes as we best see fit to resolve the situation and bring safety to our community:
+Until we have an official Code of Conduct, we will act against public and private harassment according to any of the following codes as we best see fit to resolve the situation and bring safety to our community:
 
 - [Conference Code of Conduct](http://confcodeofconduct.com/)
 - [Contributor Covenant](https://github.com/Bantik/contributor_covenant/blob/master/CODE_OF_CONDUCT.md)
@@ -37,4 +35,4 @@ tl;dr: Be respectful. Abusive behavior is never tolerated.
 
 ## Notes
 
-("we" refers to the maintainers and community of express / expressjs / jshttp / pillarjs)
+("we" refers to the maintainers and community of express / expressjs / jshttp / pillarjs / etc)

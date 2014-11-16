@@ -22,6 +22,8 @@ Try to provide tests when you can; following our concise [style gude](https://gi
 However, we don't usually require that you do these things. Doing so only helps us help you get your contributions in.
 We regularly patch up things such as style nits in commits so that new contributors don't have to worry about those.
 
+All code contributed is and will be [MIT Licensed](LICENSE).
+
 
 ## Code of Conduct
 

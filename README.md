@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **This repository is archived and no longer actively maintained.**
+>
+> We are no longer accepting issues, feature requests, or pull requests.
+> For additional support or questions, please visit the [Express.js Discussions page](https://github.com/expressjs/express/discussions).
+
+
+
 # jshttp style _guide_
 
 These guidelines are how we style javascript modules in `jshttp`, as well as how we prefer to work with git.
